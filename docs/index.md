@@ -1,17 +1,17 @@
-# Description
+# Description:
 
-This second edition of the CauSE workshop is planed to be organized in the context of the ACM International Conference on the Foundations of Software Engineering (FSE2026). Sun 5 - Thu 9 July 2026 Montreal, Canada. https://conf.researchr.org/home/fse-2026
+This edition of the CauSE workshop is planed to be organized in the context of the ....
 
-## Motivation
+## Motivation:
 
 Despite their potential, causal methods have not yet been leveraged by the software engineering community. While preliminary studies demonstrated their benefit in specific areas, their broad and systematic exploitation for software engineering is still far from coming. The objective of this workshop is to provide the first platform for participants to share their research, experiences, and insights on causal inference methods and their applications in software engineering. The broader aim is to foster networking and open new collaboration opportunities, encouraging the development of a new strong community.
 
 This workshop aims to bring together researchers, practitioners, and students to explore the growing field of causal inference and, more broadly, causal AI (including causal discovery, mediation analysis, counterfactual analysis, root-cause and causal attribution analysis) in software engineering. Causal inference methods allow the identification and estimation of causal effects from observational data, distinguishing between spurious correlations and causal effects. Despite a growing interest in the topic, the application of such methods in software engineering is not widespread, and there is a need to foster a community to exchange and promote scientific activities on the topic.
 
-## Workshop goals
+## Workshop goals:
 The workshop will provide a platform for participants to share their research, experiences, and insights on causal inference methods and their applications in software engineering. It will also facilitate networking and collaboration opportunities, encouraging the development of a strong community.
 
-# Call for papers
+# Call for papers:
 
 ## Topics of interest:
 The workshop intends to keep the scope of the application use cases as broad as possible. We don't want to restrict the type of causal methods applied and want this workshop to be an open stage for SE researchers to discuss which causal approach fits best a given use case. The types of work expected include (but are not limited to) proof of concept, benchmarks, empirical studies, lessons learned reports, literature reviews, etc. 
@@ -26,50 +26,31 @@ Topics include the application of causal reasoning methods, such as causal disco
 
 ## Manuscript information:
 
-Submitted papers should present original, unpublished work, relevant to one of the topics above. CauSE 2026 will accept: 
+Submitted papers should present original, unpublished work, relevant to one of the topics above. CauSE 2027 will accept: 
 * Full papers (max. 8 pages) describing original, complete, and validated research;
 * Position/Short papers (max. 4 pages) that describe forward-looking, visionary ideas and/or in-progress works with emerging results, thought-provoking reflections, or that set potential new directions for the community; 
 * Tool and artifacts papers (max. 4 pages) for researchers who want to present tools, extensions of tools or artifacts (e.g., datasets for benchmarks), relevant to the workshop;
-* Extended abstracts (max. 2 pages) summarizing ongoing research, preliminary results, or novel ideas that would benefit from community feedback. Accepted abstracts will be free of APC charges. 
+* Extended abstracts (max. 2 pages) summarizing ongoing research, preliminary results, or novel ideas that would benefit from community feedback.
 
-Submissions must be in English and in PDF format. At the time of submission, all papers must conform to the [FSE 2026 format and submission guidelines](https://conf.researchr.org/track/fse-2026/fse-2026-how-to-submit). **The workshop will employ a double-anonymous review process**.
-All submissions will be refereed by three members of the program committee. Accepted submissions will be published in FSE 2026 companion proceedings. At least one author of each accepted paper is required to register for and present at the workshop.
-As a published ACM author, you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies/toc), including ACM’s new [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects).
+Submissions must be in English and in PDF format. At the time of submission, all papers must conform to the [.... format and submission guidelines](.). **The workshop will employ a double-anonymous review process**.
+All submissions will be refereed by three members of the program committee. Accepted submissions will be published in ..... companion proceedings. At least one author of each accepted paper is required to register for and present at the workshop.
 
 ## Important Dates:
 
-- Workshop papers submission ~~Feb 1st, 2026~~ (**Extended: Feb 19th, 2026, AoE**)
-- Workshop papers notification ~~Mar 7th, 2026~~ (**Extended: Mar 19th, 2026, AoE**)
-- Workshop papers camera-ready ~~Mar 21st, 2026~~ (**Extended: Apr 2nd, 2026, AoE**)
-- Workshop date: TBD (3-4 July 2026) 
+- TBD
 
 
 ## Link to the submission system:
 
-[https://cause2026.hotcrp.com/](https://cause2026.hotcrp.com/)
+- TBD
 
-# Workshop Program
+# Workshop Program:
 
-To be announced
+- TBD
 
-# Program Committee (WIP)
+# Program Committee:
 
--    Prof. Andrea Alexander Janes. Free University of Bozen/Bolzano, Bozen/Bolzano, Italy.
--    Prof. Carlo A. Furia. Università della Svizzera italiana, Lugano, Switzerland.
--    Dr. Carlos Paradis. KBR Inc. CA, United States.
--    Dr. Hans-Martin Heyn. Department of Computer Science and Engineering, Chalmers and University of Gothenburg, Göteborg, Sweden.
--    Prof. Jacopo Soldani. University of Pisa, Pisa, Italy.
--    Julian Frattini. Blekinge Institute of Technology, Karlskrona, Sweden.
--    Prof. Jürgen Mottok. Software Engineering Laboratory for Safe and Secure Systems (LaS³), OTH Regensburg, Regensburg, Germany.
--    Prof. Martin Shepperd. College of Engineering, Design and Physical Sciences, Brunel University of London, London, UK.
--    Dr. Mike Konrad. Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA, United States.
--    Dr. Mirko Perkusich. VIRTUS/UFCG, Campina Grande, Brazil.
--    Prof. Richard Torkar. Department of Computer Science and Engineering, Chalmers and University of Gothenburg, Göteborg, Sweden.
--    Dr. Seongmin Lee. University of California, Los Angeles (UCLA), USA.
--    Sigma Jaha. Dalhousie University, Halifax, Canada.
--    Prof. Stefano Russo. DIETI, Universit`a degli Studi di Napoli Federico II, Napoli, Italy.
--    Dr. Subhajit Datta. Department of Computer Science and Engineering, Heritage Institute of Technology, Kolkata, India.
--    Prof. Subhashis Majumder. Department of Computer Science and Engineering, Heritage Institute of Technology, Kolkata, India.
+- TBD
 
 
 # Organizers and contacts
@@ -81,3 +62,7 @@ To be announced
 **Dr. Neil Walkinshaw** ([contact page](sheffield.ac.uk/cs/people/academic/neil-walkinshaw), [google scholar](https://scholar.google.com/citations?user=Qa8zO1EAAAAJ&hl=it&oi=ao)) is a Senior Lecturer at the University of Sheffield. His research focuses on software quality assurance, particularly "black-box" components, and he specializes in applying Machine Learning and data analysis algorithms to testing, reverse-engineering, and safety-case assessment. He received a grant from CITCoM (2021-2024) for the project "Causal Inference for Testing of Computational Models."
 
 **Luca Giamattei** ([contact page](https://lucagiamattei.github.io/), [google scholar](https://scholar.google.com/citations?user=jT_i6fsAAAAJ&hl=it)) is researcher at the Federico II University of Naples, working in the Dependable Systems and Software Engineering Research Team (DESSERT). His research interests encompass the use of causal reasoning in software testing.
+
+**Julian Frattini** ([contact page](https://julianfrattini.github.io/), [google scholar](https://scholar.google.com/citations?user=wsw2NTMAAAAJ&hl=fr&oi=ao)) is a postdoctoral researcher at the Chalmers University of Technology, Sweden. His research interests revolve around quality of requirements artifacts, empirical research methods with a focus on statistical causal inference and Bayesian data analysis.
+
+**Hans-Martin Heyn** ([contact page](https://martinheyn.github.io/), [google scholar](https://scholar.google.com/citations?user=Pd5pmvQAAAAJ&hl=fr&oi=ao)) a senior lecturer at the Computer Science and Engineering Department of the University of Gothenburg and Chalmers University of Technology in Sweden. His research concentrates around Software Engineering for AI and distributed cyber-physical systems. He is especially interested in studying how we can set requirements for training data and data at runtime based on prior knowledge we have about the problem domain. A research direction that triggered his interest for achieving this aim is causal modelling and information entropy.
