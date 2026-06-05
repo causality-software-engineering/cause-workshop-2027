@@ -1,4 +1,4 @@
-Call for Papers “Causal Methods in Software Engineering (CauSE 2026)”
+Call for Papers “Causal Methods in Software Engineering (CauSE 2027)”
 
 Aim and scope:
 
@@ -29,15 +29,15 @@ All submissions will be refereed by three members of the program committee. Acce
 
 Important Dates:
 
-* Workshop papers submission Tuesday Feb 25th, 2026
-* Workshop papers notification Tuesday Mar 25th, 2026
-* Workshop papers camera-ready (hard) Thursday Apr 24th, 2026
-* Workshop date: TBD
+* Workshop papers submission: TBA
+* Workshop papers notification: TBA 
+* Workshop papers camera-ready (hard): TBA 
+* Workshop date: TBA
 
 Links:
 
-* Submissions: https://cause2026.hotcrp.com/
-* Workshop website: https://causality-software-engineering.github.io/cause-workshop-2026/
+* Submissions: .....
+* Workshop website: https://causality-software-engineering.github.io/cause-workshop-2027/
 
 Contacts:
 
@@ -45,5 +45,7 @@ Contacts:
 * Roberto Pietrantuono (Roberto.pietrantuono@unina.it) University of Naples Federico II, Italy
 * Neil Walkinshaw (n.walkinshaw@sheffield.ac.uk) School of Computer Science, University of Sheffield, UK
 * Luca Giamattei (luca.giamattei@unina.it) University of Naples Federico II, Italy
+* Julian Frattini (julian.frattini@chalmers.se) Chalmers University of Technology and University of Gothenburg, Sweden
+* Hans-Martin Heyn (heyn@chalmers.se) Chalmers University of Technology and University of Gothenburg, Sweden
 
  
