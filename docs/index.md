@@ -1,12 +1,12 @@
 # Description:
 
-This edition of the CauSE workshop is planed to be organized in the context of the ....
+This second edition of the CauSE workshop is organized in the context of ICSE 2027, Dublin, Ireland (25 April – 1 May 2027).
 
 ## Motivation:
 
-Despite their potential, causal methods have not yet been leveraged by the software engineering community. While preliminary studies demonstrated their benefit in specific areas, their broad and systematic exploitation for software engineering is still far from coming. The objective of this workshop is to provide the first platform for participants to share their research, experiences, and insights on causal inference methods and their applications in software engineering. The broader aim is to foster networking and open new collaboration opportunities, encouraging the development of a new strong community.
+Despite their potential, causal methods have not yet been broadly leveraged by the software engineering community. While preliminary studies demonstrated their benefit in specific areas, their broad and systematic exploitation for software engineering is still far from coming. The objective of this workshop is to provide a platform for participants to share their research, experiences, and insights on causal inference methods and their applications in software engineering. The broader aim is to foster networking and open new collaboration opportunities, encouraging the development of a strong community.
 
-This workshop aims to bring together researchers, practitioners, and students to explore the growing field of causal inference and, more broadly, causal AI (including causal discovery, mediation analysis, counterfactual analysis, root-cause and causal attribution analysis) in software engineering. Causal inference methods allow the identification and estimation of causal effects from observational data, distinguishing between spurious correlations and causal effects. Despite a growing interest in the topic, the application of such methods in software engineering is not widespread, and there is a need to foster a community to exchange and promote scientific activities on the topic.
+This workshop aims to bring together researchers, practitioners, and students to explore the growing field of causal inference and, more broadly, causal AI (including causal discovery, mediation analysis, counterfactual analysis, root-cause and causal attribution analysis) in software engineering. Causal inference methods allow the identification and estimation of causal effects from observational data, distinguishing between spurious correlations and causal effects. Despite a growing interest in the topic, the application of such methods in software engineering is not widespread, and there is a need to foster a community to exchange and promote scientific activities on the topic. The spread of LLM-based and agentic systems makes this need more pressing, as such systems are largely assessed through correlational benchmarks while the questions they raise — what caused a failure, what would have happened under a different design choice — are causal ones.
 
 ## Workshop goals:
 The workshop will provide a platform for participants to share their research, experiences, and insights on causal inference methods and their applications in software engineering. It will also facilitate networking and collaboration opportunities, encouraging the development of a strong community.
@@ -14,30 +14,33 @@ The workshop will provide a platform for participants to share their research, e
 # Call for papers:
 
 ## Topics of interest:
-The workshop intends to keep the scope of the application use cases as broad as possible. We don't want to restrict the type of causal methods applied and want this workshop to be an open stage for SE researchers to discuss which causal approach fits best a given use case. The types of work expected include (but are not limited to) proof of concept, benchmarks, empirical studies, lessons learned reports, literature reviews, etc. 
+The workshop intends to keep the scope of the application use cases as broad as possible. We don't want to restrict the type of causal methods applied and want this workshop to be an open stage for SE researchers to discuss which causal approach fits best a given use case. The types of work expected include (but are not limited to) proof of concept, benchmarks, empirical studies, lessons learned reports, literature reviews, etc.
 
-Topics include the application of causal reasoning methods, such as causal discovery, causal inference, and the causal treatment of machine learning (Causal Machine Learning, Causal Reinforcement Learning), to: 
+Topics include the application of causal reasoning methods, such as causal discovery, causal inference, and the causal treatment of machine learning (Causal Machine Learning, Causal Reinforcement Learning), as well as the use of large language models as instruments for causal modelling, to:
 * Software engineering activities along the whole life cycle, from requirements analysis to design, development, testing and formal methods, verification and validation, maintenance and evolution
-* Fault prevention, fault removal (fault localization, debugging, root cause analysis), fault tolerance, fault prediction
+* Fault prevention, fault removal (fault localization, debugging, root cause analysis, including in LLM-based and agentic pipelines), fault tolerance, fault prediction
 * Software Quality Assurance, assessment, and improvement of software quality attributes, e.g., security, privacy, safety, maintainability, resilience, robustness, usability, transparency, explainability, accountability, and fairness among others
 * Empirical software engineering
-* Software engineering within specific technological spaces (e.g., AI systems, Internet of Things, Cloud, Semantic Web/Web 3.0, Virtualization, Blockchain, networks softwarization, 5G/6G, edge-to-cloud computing)
+* Software engineering within specific technological spaces (e.g., AI systems, including LLM-based and agentic systems, Internet of Things, Cloud, Semantic Web/Web 3.0, Virtualization, Blockchain, networks softwarization, 5G/6G, edge-to-cloud computing)
 * Normative/regulatory/ethical spaces about software engineering
 
 ## Manuscript information:
 
-Submitted papers should present original, unpublished work, relevant to one of the topics above. CauSE 2027 will accept: 
+Submitted papers should present original, unpublished work, relevant to one of the topics above. CauSE 2027 will accept:
 * Full papers (max. 8 pages) describing original, complete, and validated research;
-* Position/Short papers (max. 4 pages) that describe forward-looking, visionary ideas and/or in-progress works with emerging results, thought-provoking reflections, or that set potential new directions for the community; 
+* Position/Short papers (max. 4 pages) that describe forward-looking, visionary ideas and/or in-progress works with emerging results, thought-provoking reflections, or that set potential new directions for the community;
 * Tool and artifacts papers (max. 4 pages) for researchers who want to present tools, extensions of tools or artifacts (e.g., datasets for benchmarks), relevant to the workshop;
 * Extended abstracts (max. 2 pages) summarizing ongoing research, preliminary results, or novel ideas that would benefit from community feedback.
 
-Submissions must be in English and in PDF format. At the time of submission, all papers must conform to the [.... format and submission guidelines](.). **The workshop will employ a double-anonymous review process**.
-All submissions will be refereed by three members of the program committee. Accepted submissions will be published in ..... companion proceedings. At least one author of each accepted paper is required to register for and present at the workshop.
+Submissions must be in English and in PDF format. At the time of submission, all papers must conform to the [ICSE 2027 format and submission guidelines](https://conf.researchr.org/home/icse-2027). **The workshop will employ a double-anonymous review process**.
+All submissions will be refereed by at least three members of the program committee. Accepted submissions will be published in the ICSE 2027 companion proceedings. At least one author of each accepted paper is required to register for and present at the workshop.
 
 ## Important Dates:
 
-- TBD
+- Paper submission: 13 November 2026 (AoE)
+- Notification of acceptance: 11 December 2026
+- Camera-ready: 29 January 2027
+- Workshop: April 2027, exact date TBD
 
 
 ## Link to the submission system:
