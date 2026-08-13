@@ -28,9 +28,9 @@ Topics include the application of causal reasoning methods, such as causal disco
 
 Submitted papers should present original, unpublished work, relevant to one of the topics above. CauSE 2027 will accept:
 * Full papers (max. 8 pages) describing original, complete, and validated research;
-* Position/Short papers (max. 4 pages) that describe forward-looking, visionary ideas and/or in-progress works with emerging results, thought-provoking reflections, or that set potential new directions for the community;
-* Tool and artifacts papers (max. 4 pages) for researchers who want to present tools, extensions of tools or artifacts (e.g., datasets for benchmarks), relevant to the workshop;
-* Extended abstracts (max. 2 pages) summarizing ongoing research, preliminary results, or novel ideas that would benefit from community feedback.
+* Position/Short papers (max. 5 pages) that describe forward-looking, visionary ideas and/or in-progress works with emerging results, thought-provoking reflections, or that set potential new directions for the community;
+* Tool and artifacts papers (max. 5 pages) for researchers who want to present tools, extensions of tools or artifacts (e.g., datasets for benchmarks), relevant to the workshop;
+
 
 Submissions must be in English and in PDF format. At the time of submission, all papers must conform to the [ICSE 2027 format and submission guidelines](https://conf.researchr.org/home/icse-2027). **The workshop will employ a double-anonymous review process**.
 All submissions will be refereed by at least three members of the program committee. Accepted submissions will be published in the ICSE 2027 companion proceedings. At least one author of each accepted paper is required to register for and present at the workshop.
