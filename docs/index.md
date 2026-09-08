@@ -45,7 +45,7 @@ All submissions will be refereed by at least three members of the program commit
 
 ## Link to the submission system:
 
-- TBD
+- [HotCRP CauSE 27](https://icse2027-cause.hotcrp.com/)
 
 # Workshop Program:
 
